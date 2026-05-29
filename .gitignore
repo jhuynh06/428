@@ -1,0 +1,7 @@
+*.zip
+seg_pred/
+seg_test/
+seg_train
+oxford_pets/
+__MACOSX/
+.DS_STORE
